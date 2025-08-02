@@ -38,7 +38,8 @@ To get a local copy up and running, follow these simple steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/omnifood.git
+git clone 
+https://github.com/your-username/omnifood.git
 Navigate to the project directory:
 
 cd omnifood
