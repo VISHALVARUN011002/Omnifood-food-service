@@ -1,6 +1,13 @@
 Omnifood 🍔
 Omnifood is a fictional food delivery service that provides healthy meals tailored to your personal tastes and nutritional needs. This is a landing page for the service, built to be responsive and visually appealing.
 
+# Omnifood Project
+
+This is a food delivery website.
+
+## Preview
+
+![Website Screenshot](/img/Omnifood/Omnifood.png)
 
 
 
